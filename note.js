@@ -1,0 +1,1 @@
+console.log('Vexa Note Loaded');
